@@ -1,5 +1,5 @@
 # Online-Voting-System-or-CR-Election-System
-SE-133 Software Development project by Manas PRajapati in C++
+SE-133 Software Development project by Priyanshu Vishwakarma and Manas PRajapati in C++
 
 
 Protected By Admin Password.
